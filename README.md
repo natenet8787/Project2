@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project 2
 Project title:
 Algorithm trading app using Machine learning / Supervised learning
@@ -62,3 +63,6 @@ ESG, API, CSV
 Rough breakdown of tasks:
 Data collection, API selection, Chat Bot creation, Risk tolerance analysis (BOT), Machine learning
 capability, Bot alert creation, Algorithmic trading
+=======
+#Project 2
+>>>>>>> 68104610f0678679090f90512419d57625d17920
